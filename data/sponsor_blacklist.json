@@ -1,1 +1,11 @@
-
+{
+  "wallets": {
+    "HuBMeYW3aDn8BH65fo8xxbP4oiexyup8udzKyccgi8Ga": "Stonkfun Distributor (HuBMe)",
+    "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD": "Stonkfun Distribution"
+  },
+  "added_order": [
+    "HuBMeYW3aDn8BH65fo8xxbP4oiexyup8udzKyccgi8Ga",
+    "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD"
+  ],
+  "updated_at": "2026-10-14T21:57:15.122245"
+}
