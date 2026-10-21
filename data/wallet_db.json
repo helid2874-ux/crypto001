@@ -61,9 +61,7 @@
     "F5hkYsi8JxjyA2JHN5CA7MbnnhWubkXB2ZQB7Gkaxqs6": "theveeman",
     "E7EDkePTbFWNoCY9kJYqodb3No6AjEj7KhHjNLrUtpzy": "жирный"
   },
-  "blacklist": {
-    "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD": ""
-  },
+  "blacklist": {},
   "added_order": [
     "28MJrJr2Pu2GPicLj8631nApwzXUAh9vkx2J6VgLPz3y",
     "9BMzTpSo4URse1oN666pmexhdjpU1vA5p7LtroCFQdLU",
@@ -126,5 +124,5 @@
     "F5hkYsi8JxjyA2JHN5CA7MbnnhWubkXB2ZQB7Gkaxqs6",
     "E7EDkePTbFWNoCY9kJYqodb3No6AjEj7KhHjNLrUtpzy"
   ],
-  "updated_at": "2026-10-22T00:10:43.286924"
+  "updated_at": "2026-10-22T00:12:03.519713"
 }
