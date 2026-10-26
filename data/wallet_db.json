@@ -67,7 +67,9 @@
     "B8ooiBenEt5Q1EiU9TYUULg7sF51hzJhdexVVTTWL3uv": "Прокладка Аврелия 2",
     "8zhDwBK732nzqpmtMKN7y9BG6S2bPNaHWPTVRmMb34CK": "Pump.fun (BABYCATE) Bonding Curve"
   },
-  "blacklist": {},
+  "blacklist": {
+    "8zhDwBK732nzqpmtMKN7y9BG6S2bPNaHWPTVRmMb34CK": ""
+  },
   "added_order": [
     "28MJrJr2Pu2GPicLj8631nApwzXUAh9vkx2J6VgLPz3y",
     "9BMzTpSo4URse1oN666pmexhdjpU1vA5p7LtroCFQdLU",
@@ -136,5 +138,5 @@
     "B8ooiBenEt5Q1EiU9TYUULg7sF51hzJhdexVVTTWL3uv",
     "8zhDwBK732nzqpmtMKN7y9BG6S2bPNaHWPTVRmMb34CK"
   ],
-  "updated_at": "2026-10-26T18:01:36.121718"
+  "updated_at": "2026-10-26T18:02:34.280065"
 }
