@@ -66,7 +66,8 @@
     "4d9AEoM3ME435SMQPKir4mkH41HJ2hwXw4pExaD6nVzv": "Прокладка Аврелия",
     "B8ooiBenEt5Q1EiU9TYUULg7sF51hzJhdexVVTTWL3uv": "Прокладка Аврелия 2",
     "8zhDwBK732nzqpmtMKN7y9BG6S2bPNaHWPTVRmMb34CK": "Pump.fun (BABYCATE) Bonding Curve",
-    "3Sg92V4Mre9Apm7dJsM39B6vrAEVVErE1vBsZMKyUbxT": "Pump.fun (CATE) Bonding Curve"
+    "3Sg92V4Mre9Apm7dJsM39B6vrAEVVErE1vBsZMKyUbxT": "Pump.fun (CATE) Bonding Curve",
+    "HMzvsEEmtzHhvZNw9uwbaG85HCTmFnkbhzUx16cy7ca3": "Pump.fun AMM (CATE-WSOL) Market"
   },
   "blacklist": {
     "8zhDwBK732nzqpmtMKN7y9BG6S2bPNaHWPTVRmMb34CK": "",
@@ -139,7 +140,8 @@
     "4d9AEoM3ME435SMQPKir4mkH41HJ2hwXw4pExaD6nVzv",
     "B8ooiBenEt5Q1EiU9TYUULg7sF51hzJhdexVVTTWL3uv",
     "8zhDwBK732nzqpmtMKN7y9BG6S2bPNaHWPTVRmMb34CK",
-    "3Sg92V4Mre9Apm7dJsM39B6vrAEVVErE1vBsZMKyUbxT"
+    "3Sg92V4Mre9Apm7dJsM39B6vrAEVVErE1vBsZMKyUbxT",
+    "HMzvsEEmtzHhvZNw9uwbaG85HCTmFnkbhzUx16cy7ca3"
   ],
-  "updated_at": "2026-10-29T17:29:43.589765"
+  "updated_at": "2026-10-29T19:49:02.125865"
 }
