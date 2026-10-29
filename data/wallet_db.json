@@ -71,7 +71,8 @@
   },
   "blacklist": {
     "8zhDwBK732nzqpmtMKN7y9BG6S2bPNaHWPTVRmMb34CK": "",
-    "3Sg92V4Mre9Apm7dJsM39B6vrAEVVErE1vBsZMKyUbxT": ""
+    "3Sg92V4Mre9Apm7dJsM39B6vrAEVVErE1vBsZMKyUbxT": "",
+    "8ZatX3uYfVxH1emrDQd3erxwGsX8tdrqxH1mHiKh3GCw": ""
   },
   "added_order": [
     "28MJrJr2Pu2GPicLj8631nApwzXUAh9vkx2J6VgLPz3y",
@@ -143,5 +144,5 @@
     "3Sg92V4Mre9Apm7dJsM39B6vrAEVVErE1vBsZMKyUbxT",
     "8ZatX3uYfVxH1emrDQd3erxwGsX8tdrqxH1mHiKh3GCw"
   ],
-  "updated_at": "2026-10-29T17:26:34.988660"
+  "updated_at": "2026-10-29T17:26:58.192391"
 }
