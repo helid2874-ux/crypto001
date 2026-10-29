@@ -69,7 +69,8 @@
     "3Sg92V4Mre9Apm7dJsM39B6vrAEVVErE1vBsZMKyUbxT": "Pump.fun (CATE) Bonding Curve"
   },
   "blacklist": {
-    "8zhDwBK732nzqpmtMKN7y9BG6S2bPNaHWPTVRmMb34CK": ""
+    "8zhDwBK732nzqpmtMKN7y9BG6S2bPNaHWPTVRmMb34CK": "",
+    "3Sg92V4Mre9Apm7dJsM39B6vrAEVVErE1vBsZMKyUbxT": ""
   },
   "added_order": [
     "28MJrJr2Pu2GPicLj8631nApwzXUAh9vkx2J6VgLPz3y",
@@ -140,5 +141,5 @@
     "8zhDwBK732nzqpmtMKN7y9BG6S2bPNaHWPTVRmMb34CK",
     "3Sg92V4Mre9Apm7dJsM39B6vrAEVVErE1vBsZMKyUbxT"
   ],
-  "updated_at": "2026-10-29T14:18:33.109357"
+  "updated_at": "2026-10-29T14:18:41.261974"
 }
